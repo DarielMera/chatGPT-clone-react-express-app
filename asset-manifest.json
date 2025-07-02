@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DarielMera/chatGPT-clone-react-express-app/static/css/main.e061a8c3.css",
-    "main.js": "/DarielMera/chatGPT-clone-react-express-app/static/js/main.35431135.js",
-    "index.html": "/DarielMera/chatGPT-clone-react-express-app/index.html",
-    "main.e061a8c3.css.map": "/DarielMera/chatGPT-clone-react-express-app/static/css/main.e061a8c3.css.map",
-    "main.35431135.js.map": "/DarielMera/chatGPT-clone-react-express-app/static/js/main.35431135.js.map"
+    "main.css": "/chatGPT-clone-react-express-app/static/css/main.e061a8c3.css",
+    "main.js": "/chatGPT-clone-react-express-app/static/js/main.35431135.js",
+    "index.html": "/chatGPT-clone-react-express-app/index.html",
+    "main.e061a8c3.css.map": "/chatGPT-clone-react-express-app/static/css/main.e061a8c3.css.map",
+    "main.35431135.js.map": "/chatGPT-clone-react-express-app/static/js/main.35431135.js.map"
   },
   "entrypoints": [
     "static/css/main.e061a8c3.css",
